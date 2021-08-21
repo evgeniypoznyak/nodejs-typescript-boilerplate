@@ -10,7 +10,7 @@ npm run build-ts
 # or
 yarn build-ts
 
-#it complile filest time your ts code, then run:
+#it compile files time your ts code, then run:
 
 # STEP 2
 npm run dev
