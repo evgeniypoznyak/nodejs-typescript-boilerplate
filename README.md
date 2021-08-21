@@ -1,4 +1,4 @@
-#NodeJS + TypeScript Boilerplate project.
+# NodeJS + TypeScript Boilerplate project.
 
 ## Getting Started
 
